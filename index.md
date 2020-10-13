@@ -25,7 +25,8 @@
       </p>
       <p> </p>
       <p><b>Research interests:</b> <br>
-      <p> My current research interests include game theory, optimization, and automatic control. </p>
+         My current research interests include game theory, optimization, and automatic control. 
+      </p>
       </td>
     </tr>
   </tbody>
