@@ -19,7 +19,7 @@
       <p>Instructor, Departamento de Ingeniería Eléctrica y Electrónica, <br>
       Universidad de los Andes, Bogotá, Colombia. <br>
       <b>Email:</b> <a href = "mailto: jp.martinez10@uniandes.edu.co"> jp.martinez10 [<i>at</i>] uniandes.edu.co </a>
-
+      </p>
       <p> </p>
       <p><b>Education:</b> <br>
          M.S. Electronic Engineering, <a href="https://uniandes.edu.co"> Universidad de los Andes </a>, 2019. <br>
