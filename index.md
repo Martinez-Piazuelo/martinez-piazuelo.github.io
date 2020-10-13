@@ -21,8 +21,8 @@
       <b>Email:</b> jp.martinez10 [<i>at</i>] uniandes.edu.co </p>
       <p> </p>
       <p><b>Education:</b> <br>
-         M.S. Electronic Engineering, <a href="uniandes.edu.co"> Universidad de los Andes </a>, 2019. <br>
-         B.S. Electronic Engineering, <a href="uniandes.edu.co"> Universidad de los Andes </a>, 2017.         
+         M.S. Electronic Engineering, <a href="https://uniandes.edu.co"> Universidad de los Andes </a>, 2019. <br>
+         B.S. Electronic Engineering, <a href="https://uniandes.edu.co"> Universidad de los Andes </a>, 2017.         
       </p>
       <p> </p>
       <p><b>Research interests:</b> <br>
