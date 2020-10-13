@@ -36,15 +36,35 @@
 <h2>
 <p> <b>Publications</b> </p>
 </h2>
-<ul>
+
 <p> For a (probably) more up-to-date list of publications please visit my <a href="https://scholar.google.com/citations?user=lSaf1NgAAAAJ&hl=es">Google Scholar</a> profile.</p>
+
+<h3>
+<p> <b>Recent research papers (preprints)</b> </p>
+</h3>
+<ul>
 
 <li> J. Martinez-Piazuelo, N. Quijano, and C. Ocampo-Martinez, "Primal-dual evolutionary dynamics for constrained population games", 
 arXiv preprint, 2020 <a href="https://arxiv.org/pdf/2008.09089.pdf">[PDF]</a>. 
 </li>
 
+</ul>
+
+<h3>
+<p> <b>Journal papers</b> </p>
+</h3>
+<ul>
+
 <li> J. Martinez-Piazuelo, D. E. Ochoa, N. Quijano, and L. F. Giraldo, "A multi-critic reinforcement learning method: an application to multi-tank water systems", IEEE Access, 2020 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9200594">[PDF]</a>.
 </li>
+
+</ul>
+
+
+<h3>
+<p> <b>Conference papers</b> </p>
+</h3>
+<ul>
 
 <li> J. Martinez-Piazuelo, N. Quijano, and C. Ocampo-Martinez, "Decentralized charging coordination of electric vehicles using multi-population games", Proceedings of the 59th IEEE Conference on Decision and Control (to appear), 2020.
 </li>
