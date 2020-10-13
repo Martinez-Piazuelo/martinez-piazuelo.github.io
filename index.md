@@ -10,7 +10,7 @@
       <td width="35%">
       <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png"
            alt="Photo"
-           height="300" />
+           width="225" />
       </td>
       <td valign="top" width="65%">
       <p> </p>
