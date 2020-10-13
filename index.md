@@ -10,7 +10,8 @@
       <td width="30%">
       <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png"
            alt="Photo"
-           height="285" />
+           width="225"
+           height="300" />
       </td>
       <td valign="top" width="70%">
       <p> </p>
@@ -28,8 +29,17 @@
 <ul>
 <p> For a more up-to-date list of publications please visit my <a href="https://scholar.google.com/citations?user=lSaf1NgAAAAJ&hl=es">Google Scholar</a> profile.</p>
 
-<li> J. Martinez-Piazuelo, N. Quijano, and C. Ocampo-Martinez</b>, "Primal-dual evolutionary dynamics for constrained population games," 
-arXiv preprint, 2020 <a href="https://arxiv.org/abs/2008.09089">[Available Online]</a>. 
+<li> J. Martinez-Piazuelo, N. Quijano, and C. Ocampo-Martinez, "Primal-dual evolutionary dynamics for constrained population games", 
+arXiv preprint, 2020 <a href="https://arxiv.org/pdf/2008.09089.pdf">[PDF]</a>. 
+</li>
+
+<li> J. Martinez-Piazuelo, D. E. Ochoa, N. Quijano, and L. F. Giraldo, "A multi-critic reinforcement learning method: an application to multi-tank water systems", IEEE Access, 2020 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9200594">[PDF]</a>.
+</li>
+
+<li> J. Martinez-Piazuelo, N. Quijano, and C. Ocampo-Martinez, "Decentralized charging coordination of electric vehicles using multi-population games", Proceedings of the 59th IEEE Conference on Decision and Control (to appear), 2020.
+</li>
+
+<li> J. Martinez-Piazuelo, G. Diaz-Garcia, N. Quijano, and L. F. Giraldo, "Distributed formation control of mobile robots using discrete-time distributed population dynamics", Proceedings of the 21st IFAC World Congress (to appear), 2020.
 </li>
 
 </ul>
