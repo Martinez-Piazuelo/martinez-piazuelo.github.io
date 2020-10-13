@@ -13,7 +13,7 @@
       <p> </p>
       <p> Instructor, <br>
       Departamento de Ingeniería Eléctrica y Electrónica, <br>
-      Universidad de los Andes, Bogotá, Colombia. </p>
+      Universidad de los Andes, Bogotá, Colombia. <br>
       <b>Email:</b> jp.martinez10 [at] uniandes.edu.co </p>
       </td>
     </tr>
