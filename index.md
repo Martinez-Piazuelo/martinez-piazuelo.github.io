@@ -7,17 +7,18 @@
 <table border="0" cellpadding="5" cellspacing="0" width="100%">
   <tbody>
     <tr>
-      <td width="30%">
+      <td width="35%">
       <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png"
            alt="Photo"
-           width="225"
            height="300" />
       </td>
-      <td valign="top" width="70%">
+      <td valign="top" width="65%">
       <p> </p>
       <p> Instructor, Departamento de Ingeniería Eléctrica y Electrónica, <br>
       Universidad de los Andes, Bogotá, Colombia. <br>
       <b>Email:</b> jp.martinez10 [at] uniandes.edu.co </p>
+      <p> </p>
+      <p> My current research interests include game theory, optimization, feedback control, and reinforcement learning. </p>
       </td>
     </tr>
   </tbody>
@@ -27,7 +28,7 @@
 <p> <b>Publications</b> </p>
 </h2>
 <ul>
-<p> For a more up-to-date list of publications please visit my <a href="https://scholar.google.com/citations?user=lSaf1NgAAAAJ&hl=es">Google Scholar</a> profile.</p>
+<p> For a (problably) more up-to-date list of publications please visit my <a href="https://scholar.google.com/citations?user=lSaf1NgAAAAJ&hl=es">Google Scholar</a> profile.</p>
 
 <li> J. Martinez-Piazuelo, N. Quijano, and C. Ocampo-Martinez, "Primal-dual evolutionary dynamics for constrained population games", 
 arXiv preprint, 2020 <a href="https://arxiv.org/pdf/2008.09089.pdf">[PDF]</a>. 
