@@ -22,6 +22,19 @@
   </tbody>
 </table>
 
+<h2>
+<p> <b>Publications</b> </p>
+</h2>
+<ul>
+<p> For a more up-to-date list of publications please visit my <a href="https://scholar.google.com/citations?user=lSaf1NgAAAAJ&hl=es">Google Scholar</a> profile.</p>
+
+<li> J. Martinez-Piazuelo, N. Quijano, and C. Ocampo-Martinez</b>, "Primal-dual evolutionary dynamics for constrained population games," 
+arXiv preprint, 2020 <a href="https://arxiv.org/abs/2008.09089">[Available Online]</a>. 
+</li>
+
+</ul>
+
+
 </html>
 
 
