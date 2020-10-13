@@ -14,11 +14,18 @@
       </td>
       <td valign="top" width="65%">
       <p> </p>
-      <p> Instructor, Departamento de Ingeniería Eléctrica y Electrónica, <br>
+      <p> <b> Contact info:</b> <br>
+      Instructor, Departamento de Ingeniería Eléctrica y Electrónica, <br>
       Universidad de los Andes, Bogotá, Colombia. <br>
-      <b>Email:</b> jp.martinez10 [at] uniandes.edu.co </p>
+      <b>Email:</b> jp.martinez10 [<i>at</i>] uniandes.edu.co </p>
       <p> </p>
-      <p> My current research interests include game theory, optimization, feedback control, and reinforcement learning. </p>
+      <p><b>Education:</b> <br>
+         M.S. Electronic Engineering, <a href="uniandes.edu.co"> Universidad de los Andes </a>, 2019. <br>
+         B.S. Electronic Engineering, <a href="uniandes.edu.co"> Universidad de los Andes </a>, 2017.         
+      </p>
+      <p> </p>
+      <p><b>Research interests:</b> <br>
+      <p> My current research interests include game theory, optimization, and automatic control. </p>
       </td>
     </tr>
   </tbody>
