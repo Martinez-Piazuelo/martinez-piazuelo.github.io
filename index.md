@@ -1,6 +1,6 @@
 ## Juan Martinez-Piazuelo
 
-![Photo](https://github.com/Martinez-Piazuelo/martinez-piazuelo.github.io/tree/master/images/JMP.png)
+![Photo](https://github.com/Martinez-Piazuelo/martinez-piazuelo.github.io/tree/master/images/photo.png)
 
 ## Publications
 
