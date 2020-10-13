@@ -14,7 +14,9 @@
       </td>
       <td valign="top" width="65%">
       <p> </p>
-      <p> <b> Contact info:</b> <br>
+      <h2>
+      <p> <b>About me</b> <br>
+      <h2>
       Instructor, Departamento de Ingeniería Eléctrica y Electrónica, <br>
       Universidad de los Andes, Bogotá, Colombia. <br>
       <b>Email:</b> jp.martinez10 [<i>at</i>] uniandes.edu.co </p>
