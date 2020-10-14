@@ -48,6 +48,9 @@
 <li> J. Martinez-Piazuelo, N. Quijano, and C. Ocampo-Martinez, "Primal-dual evolutionary dynamics for constrained population games," arXiv preprint, 2020. <a href="https://arxiv.org/pdf/2008.09089.pdf">[PDF]</a>
 </li>
 
+<li> J. Martinez-Piazuelo, N. Quijano, and C. Ocampo-Martinez, "Discrete-time distributed population dynamics for optimization and control," preprint, 2020. <a href="https://github.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/preprints/2020/DTDPD.pdf">[PDF]</a>
+</li>
+
 </ul>
 
 <h3>
@@ -55,7 +58,7 @@
 </h3>
 <ul>
 
-<li>J. Martinez-Piazuelo, D. E. Ochoa, N. Quijano and L. F. Giraldo, "A Multi-Critic Reinforcement Learning Method: An Application to Multi-Tank Water Systems," in IEEE Access, vol. 8, pp. 173227-173238, 2020, doi: 10.1109/ACCESS.2020.3025194. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9200594">[PDF]</a>
+<li>J. Martinez-Piazuelo, D. E. Ochoa, N. Quijano and L. F. Giraldo, "A multi-critic reinforcement learning method: an application to multi-tank water systems," in IEEE Access, vol. 8, pp. 173227-173238, 2020, doi: 10.1109/ACCESS.2020.3025194. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9200594">[PDF]</a>
 </li>
 
 </ul>
