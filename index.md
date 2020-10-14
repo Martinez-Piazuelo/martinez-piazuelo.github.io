@@ -45,8 +45,7 @@
 </h3>
 <ul>
 
-<li> J. Martinez-Piazuelo, N. Quijano, and C. Ocampo-Martinez, "Primal-dual evolutionary dynamics for constrained population games", 
-arXiv preprint, 2020. <a href="https://arxiv.org/pdf/2008.09089.pdf">[PDF]</a>
+<li> J. Martinez-Piazuelo, N. Quijano, and C. Ocampo-Martinez, "Primal-dual evolutionary dynamics for constrained population games," arXiv preprint, 2020. <a href="https://arxiv.org/pdf/2008.09089.pdf">[PDF]</a>
 </li>
 
 </ul>
@@ -66,10 +65,10 @@ arXiv preprint, 2020. <a href="https://arxiv.org/pdf/2008.09089.pdf">[PDF]</a>
 </h3>
 <ul>
 
-<li> J. Martinez-Piazuelo, N. Quijano, and C. Ocampo-Martinez, "Decentralized charging coordination of electric vehicles using multi-population games", in Proceedings of the 59th IEEE Conference on Decision and Control (to appear), 2020.
+<li> J. Martinez-Piazuelo, N. Quijano, and C. Ocampo-Martinez, "Decentralized charging coordination of electric vehicles using multi-population games," in Proceedings of the 59th IEEE Conference on Decision and Control (to appear), 2020.
 </li>
 
-<li> J. Martinez-Piazuelo, G. Diaz-Garcia, N. Quijano, and L. F. Giraldo, "Distributed formation control of mobile robots using discrete-time distributed population dynamics", in Proceedings of the 21st IFAC World Congress (to appear), 2020.
+<li> J. Martinez-Piazuelo, G. Diaz-Garcia, N. Quijano, and L. F. Giraldo, "Distributed formation control of mobile robots using discrete-time distributed population dynamics," in Proceedings of the 21st IFAC World Congress (to appear), 2020.
 </li>
 
 </ul>
