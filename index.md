@@ -16,12 +16,12 @@
       <h2>
       <p> <b>About me</b> <br> </p>
       </h2>
-      <p>Instructor, Departamento de Ingeniería Eléctrica y Electrónica, <br>
+      <p align="justify">Instructor, Departamento de Ingeniería Eléctrica y Electrónica, <br>
       Universidad de los Andes, Bogotá, Colombia. <br>
       <b>Email:</b> <a href = "mailto: jp.martinez10@uniandes.edu.co"> jp.martinez10 [<i>at</i>] uniandes.edu.co </a>
       </p>
       <p> </p>
-      <p><b>Education:</b> <br>
+      <p align="justify"><b>Education:</b> <br>
          M.S. Electronic Engineering, <a href="https://uniandes.edu.co"> Universidad de los Andes </a>, 2019. <br>
          B.S. Electronic Engineering, <a href="https://uniandes.edu.co"> Universidad de los Andes </a>, 2017.         
       </p>
@@ -38,14 +38,14 @@
 <p> <b>Publications</b> <a itemprop="sameAs" content="https://orcid.org/0000-0002-3032-0502" href="https://orcid.org/0000-0002-3032-0502" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a> </p>
 </h2>
 
-<p> For a (probably) more up-to-date list of publications please visit my <a href="https://scholar.google.com/citations?user=lSaf1NgAAAAJ&hl=es">Google Scholar</a> profile.</p>
+<p align="justify"> For a (probably) more up-to-date list of publications please visit my <a href="https://scholar.google.com/citations?user=lSaf1NgAAAAJ&hl=es">Google Scholar</a> profile.</p>
 
 <h3>
 <p> <b>Recent research papers (preprints)</b> </p>
 </h3>
 <ul>
 
-<li> J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Primal-dual evolutionary dynamics for constrained population games," arXiv preprint, 2020. <a href="https://arxiv.org/pdf/2008.09089.pdf">[PDF]</a>
+<li align="justify"> J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Primal-dual evolutionary dynamics for constrained population games," arXiv preprint, 2020. <a href="https://arxiv.org/pdf/2008.09089.pdf">[PDF]</a>
 </li>
 
 <li> J. Martinez-Piazuelo, G. Diaz-Garcia, N. Quijano and L. F. Giraldo, "Discrete-time distributed population dynamics for optimization and control," preprint, 2020. <a href="https://martinez-piazuelo.github.io/preprints/2020/DTDPD.pdf">[PDF]</a>
