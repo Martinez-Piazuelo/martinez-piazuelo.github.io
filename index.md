@@ -17,7 +17,7 @@
       <p> <b>About me</b> <br> </p>
       </h2>
       <p align="justify">PhD Student, Automatic Control Department, <br>
-      Universitat Politécnica de Catalunya, Barcelona, Spain. <br>
+      Universitat Politècnica de Catalunya, Barcelona, Spain. <br>
       <b>Email:</b> <a href = "mailto: juan.pablo.martinez.piazuelo@upc.edu"> juan.pablo.martinez.piazuelo [<i>at</i>] upc.edu </a>
       </p>
       <p> </p>
