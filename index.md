@@ -54,7 +54,7 @@
 <li align="justify">J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "A payoff dynamics model for equality-constrained population games," in IEEE Control Systems Letters, vol. 6, pp. 530-535, 2022, doi: 10.1109/LCSYS.2021.3082865. <a href="https://ieeexplore.ieee.org/document/9438615">[Paper]</a>
 </li>
 
-<li align="justify">J. Martinez-Piazuelo, D. E. Ochoa, N. Quijano and L. F. Giraldo, "A multi-critic reinforcement learning method: an application to multi-tank water systems," in IEEE Access, vol. 8, pp. 173227-173238, 2020, doi: 10.1109/ACCESS.2020.3025194. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9200594">[Paper]</a>
+<li align="justify">J. Martinez-Piazuelo, D. E. Ochoa, N. Quijano and L. F. Giraldo, "A multi-critic reinforcement learning method: an application to multi-tank water systems," in IEEE Access, vol. 8, pp. 173227-173238, 2020, doi: 10.1109/ACCESS.2020.3025194. <a href="https://ieeexplore.ieee.org/document/9200594">[Paper]</a>
 </li>
 
 </ul>
@@ -78,7 +78,7 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
 </h3>
 <ul>
 
-<li align="justify"> J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Primal-dual evolutionary dynamics for constrained population games," arXiv preprint, 2020. <a href="https://arxiv.org/pdf/2008.09089.pdf">[Paper]</a>
+<li align="justify"> J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Primal-dual evolutionary dynamics for constrained population games," arXiv preprint, 2020. <a href="https://arxiv.org/abs/2008.09089">[Paper]</a>
 </li>
 
 </ul>
