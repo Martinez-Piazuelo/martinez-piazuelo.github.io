@@ -16,9 +16,9 @@
       <h2>
       <p> <b>About me</b> <br> </p>
       </h2>
-      <p align="justify">Instructor, Departamento de Ingeniería Eléctrica y Electrónica, <br>
-      Universidad de los Andes, Bogotá, Colombia. <br>
-      <b>Email:</b> <a href = "mailto: jp.martinez10@uniandes.edu.co"> jp.martinez10 [<i>at</i>] uniandes.edu.co </a>
+      <p align="justify">PhD Student, Automatic Control Department, <br>
+      Universitat Politécnica de Catalunya, Barcelona, Spain. <br>
+      <b>Email:</b> <a href = "mailto: juan.pablo.martinez.piazuelo@upc.edu"> juan.pablo.martinez.piazuelo [<i>at</i>] upc.edu </a>
       </p>
       <p> </p>
       <p align="justify"><b>Education:</b> <br>
@@ -41,24 +41,20 @@
 <p align="justify"> For a (probably) more up-to-date list of publications please visit my <a href="https://scholar.google.com/citations?user=lSaf1NgAAAAJ&hl=es">Google Scholar</a> profile.</p>
 
 <h3>
-<p> <b>Recent research papers (preprints)</b> </p>
-</h3>
-<ul>
-
-<li align="justify"> J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Primal-dual evolutionary dynamics for constrained population games," arXiv preprint, 2020. <a href="https://arxiv.org/pdf/2008.09089.pdf">[PDF]</a>
-</li>
-
-<li align="justify"> J. Martinez-Piazuelo, G. Diaz-Garcia, N. Quijano and L. F. Giraldo, "Discrete-time distributed population dynamics for optimization and control," preprint, 2020. <a href="https://martinez-piazuelo.github.io/preprints/2020/DTDPD.pdf">[PDF]</a>
-</li>
-
-</ul>
-
-<h3>
 <p> <b>Journal papers</b> </p>
 </h3>
 <ul>
 
-<li align="justify">J. Martinez-Piazuelo, D. E. Ochoa, N. Quijano and L. F. Giraldo, "A multi-critic reinforcement learning method: an application to multi-tank water systems," in IEEE Access, vol. 8, pp. 173227-173238, 2020, doi: 10.1109/ACCESS.2020.3025194. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9200594">[PDF]</a>
+<li align="justify">J. Martinez-Piazuelo, G. Diaz-Garcia, N. Quijano and L. F. Giraldo, "Discrete-time distributed population dynamics for optimization and control," in IEEE Transactions on Systems, Man, and Cybernetics: Systems (Early Access), doi: 10.1109/TSMC.2022.3151042. <a href="https://ieeexplore.ieee.org/document/9716743">[Paper]</a>
+</li>
+
+<li align="justify">J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Decentralized charging coordination of electric vehicles under feeder capacity constraints," in IEEE Transactions on Control of Network Systems (Early Access), doi: 10.1109/TCNS.2021.3128498. <a href="https://ieeexplore.ieee.org/document/9616368">[Paper]</a>
+</li>
+
+<li align="justify">J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "A payoff dynamics model for equality-constrained population games," in IEEE Control Systems Letters, vol. 6, pp. 530-535, 2022, doi: 10.1109/LCSYS.2021.3082865. <a href="https://ieeexplore.ieee.org/document/9438615">[Paper]</a>
+</li>
+
+<li align="justify">J. Martinez-Piazuelo, D. E. Ochoa, N. Quijano and L. F. Giraldo, "A multi-critic reinforcement learning method: an application to multi-tank water systems," in IEEE Access, vol. 8, pp. 173227-173238, 2020, doi: 10.1109/ACCESS.2020.3025194. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9200594">[Paper]</a>
 </li>
 
 </ul>
@@ -68,10 +64,24 @@
 </h3>
 <ul>
 
-<li align="justify"> J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Decentralized charging coordination of electric vehicles using multi-population games," in Proceedings of the 59th IEEE Conference on Decision and Control (to appear), 2020.
+<li align="justify"> J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Decentralized charging coordination of electric vehicles using multi-population games," in Proceedings of the 59th IEEE Conference on Decision and Control (CDC), 2020, pp. 506-511, doi: 10.1109/CDC42340.2020.9304437. <a href="https://ieeexplore.ieee.org/document/9304437">[Paper]</a>
 </li>
 
-<li align="justify"> J. Martinez-Piazuelo, G. Diaz-Garcia, N. Quijano and L. F. Giraldo, "Distributed formation control of mobile robots using discrete-time distributed population dynamics," in Proceedings of the 21st IFAC World Congress (to appear), 2020.
+<li align="justify"> J. Martinez-Piazuelo, G. Diaz-Garcia, N. Quijano and L. F. Giraldo, "Distributed formation control of mobile robots using discrete-time distributed population dynamics," in Proceedings of the 21st IFAC World Congress, 2020, IFAC-PapersOnLine,
+vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.1049. <a href="https://www.sciencedirect.com/science/article/pii/S2405896320314191">[Paper]</a>
+</li>
+
+</ul>
+
+<h3>
+<p> <b>Other publications</b> </p>
+</h3>
+<ul>
+
+<li align="justify"> J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Primal-dual evolutionary dynamics for constrained population games," arXiv preprint, 2020. <a href="https://arxiv.org/pdf/2008.09089.pdf">[PDF]</a>
+</li>
+
+<li align="justify"> J. Martinez-Piazuelo, G. Diaz-Garcia, N. Quijano and L. F. Giraldo, "Discrete-time distributed population dynamics for optimization and control," preprint, 2020. <a href="https://martinez-piazuelo.github.io/preprints/2020/DTDPD.pdf">[PDF]</a>
 </li>
 
 </ul>
