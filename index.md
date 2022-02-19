@@ -78,10 +78,7 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
 </h3>
 <ul>
 
-<li align="justify"> J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Primal-dual evolutionary dynamics for constrained population games," arXiv preprint, 2020. <a href="https://arxiv.org/pdf/2008.09089.pdf">[PDF]</a>
-</li>
-
-<li align="justify"> J. Martinez-Piazuelo, G. Diaz-Garcia, N. Quijano and L. F. Giraldo, "Discrete-time distributed population dynamics for optimization and control," preprint, 2020. <a href="https://martinez-piazuelo.github.io/preprints/2020/DTDPD.pdf">[PDF]</a>
+<li align="justify"> J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Primal-dual evolutionary dynamics for constrained population games," arXiv preprint, 2020. <a href="https://arxiv.org/pdf/2008.09089.pdf">[Paper]</a>
 </li>
 
 </ul>
