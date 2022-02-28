@@ -3,16 +3,6 @@
 <p> <b>Juan Martinez-Piazuelo</b> </p>
 </h1>
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6ZQKQ4RVX8"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){window.dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-6ZQKQ4RVX8');
-</script>
-
 <table border="0" cellpadding="5" cellspacing="0" width="100%">
   <tbody>
     <tr>
