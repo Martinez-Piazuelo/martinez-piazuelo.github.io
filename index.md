@@ -1,3 +1,8 @@
+<html>
+<h1>
+<p> <b>Juan Martinez-Piazuelo</b> </p>
+</h1>
+
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-6ZQKQ4RVX8"></script>
 <script>
@@ -7,12 +12,6 @@
 
   gtag('config', 'G-6ZQKQ4RVX8');
 </script>
-
-
-<html>
-<h1>
-<p> <b>Juan Martinez-Piazuelo</b> </p>
-</h1>
 
 <table border="0" cellpadding="5" cellspacing="0" width="100%">
   <tbody>
