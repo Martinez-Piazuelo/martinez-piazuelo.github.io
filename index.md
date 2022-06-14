@@ -44,6 +44,9 @@
 </h3>
 <ul>
 
+<li align="justify">J. Martinez-Piazuelo, C. Ocampo-Martinez and N. Quijano, "On Distributed Nash Equilibrium Seeking in a Class of Contractive Population Games," in IEEE Control Systems Letters (Early Access), 2022, doi: 10.1109/LCSYS.2022.3182625. <a href="https://ieeexplore.ieee.org/document/9794678">[Paper]</a>
+</li>
+
 <li align="justify">J. Martinez-Piazuelo, C. Ocampo-Martinez and N. Quijano, "Nash equilibrium seeking in full-potential population games under capacity and migration constraints," in Automatica, vol. 141, pp. 110285, 2022, doi: 10.1016/j.automatica.2022.110285. <a href="https://www.sciencedirect.com/science/article/pii/S0005109822001315">[Paper]</a>
 </li>
 
