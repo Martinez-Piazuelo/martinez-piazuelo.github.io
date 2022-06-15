@@ -47,10 +47,10 @@
 <li align="justify">J. Martinez-Piazuelo, C. Ocampo-Martinez and N. Quijano, "On distributed Nash equilibrium seeking in a class of contractive population games," in IEEE Control Systems Letters (Early Access), 2022, doi: 10.1109/LCSYS.2022.3182625. <a href="https://ieeexplore.ieee.org/document/9794678">[Paper]</a>
 </li>
 
-<li align="justify">J. Martinez-Piazuelo, C. Ocampo-Martinez and N. Quijano, "Nash equilibrium seeking in full-potential population games under capacity and migration constraints," in Automatica, vol. 141, pp. 110285, 2022, doi: 10.1016/j.automatica.2022.110285. <a href="https://www.sciencedirect.com/science/article/pii/S0005109822001315">[Paper]</a>
+<li align="justify">J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Nash equilibrium seeking in full-potential population games under capacity and migration constraints," in Automatica, vol. 141, pp. 110285, 2022, doi: 10.1016/j.automatica.2022.110285. <a href="https://www.sciencedirect.com/science/article/pii/S0005109822001315">[Paper]</a>
 </li>
 
-<li align="justify">J. Martinez-Piazuelo, C. Ocampo-Martinez and N. Quijano, "A payoff dynamics model for generalized Nash equilibrium seeking in population games," in Automatica, vol. 140, pp. 110227, 2022, doi: 10.1016/j.automatica.2022.110227. <a href="https://www.sciencedirect.com/science/article/pii/S0005109822000723">[Paper]</a>
+<li align="justify">J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "A payoff dynamics model for generalized Nash equilibrium seeking in population games," in Automatica, vol. 140, pp. 110227, 2022, doi: 10.1016/j.automatica.2022.110227. <a href="https://www.sciencedirect.com/science/article/pii/S0005109822000723">[Paper]</a>
 </li>
 
 <li align="justify">J. Martinez-Piazuelo, G. Diaz-Garcia, N. Quijano and L. F. Giraldo, "Discrete-time distributed population dynamics for optimization and control," in IEEE Transactions on Systems, Man, and Cybernetics: Systems (Early Access), 2022, doi: 10.1109/TSMC.2022.3151042. <a href="https://ieeexplore.ieee.org/document/9716743">[Paper]</a>
