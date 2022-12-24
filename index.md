@@ -44,7 +44,7 @@
 </h3>
 <ul>
 
-<li align="justify">J. Martinez-Piazuelo, C. Ocampo-Martinez and N. Quijano, "On distributed Nash equilibrium seeking in a class of contractive population games," in IEEE Control Systems Letters (Early Access), 2022, doi: 10.1109/LCSYS.2022.3182625. <a href="https://ieeexplore.ieee.org/document/9794678">[Paper]</a>
+<li align="justify">J. Martinez-Piazuelo, C. Ocampo-Martinez and N. Quijano, "On distributed Nash equilibrium seeking in a class of contractive population games," in IEEE Control Systems Letters, vol. 6, pp. 2972-2977, 2022, doi: 10.1109/LCSYS.2022.3182625. <a href="https://ieeexplore.ieee.org/document/9794678">[Paper]</a>
 </li>
 
 <li align="justify">J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Nash equilibrium seeking in full-potential population games under capacity and migration constraints," in Automatica, vol. 141, pp. 110285, 2022, doi: 10.1016/j.automatica.2022.110285. <a href="https://www.sciencedirect.com/science/article/pii/S0005109822001315">[Paper]</a>
@@ -53,10 +53,10 @@
 <li align="justify">J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "A payoff dynamics model for generalized Nash equilibrium seeking in population games," in Automatica, vol. 140, pp. 110227, 2022, doi: 10.1016/j.automatica.2022.110227. <a href="https://www.sciencedirect.com/science/article/pii/S0005109822000723">[Paper]</a>
 </li>
 
-<li align="justify">J. Martinez-Piazuelo, G. Diaz-Garcia, N. Quijano and L. F. Giraldo, "Discrete-time distributed population dynamics for optimization and control," in IEEE Transactions on Systems, Man, and Cybernetics: Systems (Early Access), 2022, doi: 10.1109/TSMC.2022.3151042. <a href="https://ieeexplore.ieee.org/document/9716743">[Paper]</a>
+<li align="justify">J. Martinez-Piazuelo, G. Diaz-Garcia, N. Quijano and L. F. Giraldo, "Discrete-time distributed population dynamics for optimization and control," in IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 52, no. 11, pp. 7112-7122, Nov. 2022, doi: 10.1109/TSMC.2022.3151042. <a href="https://ieeexplore.ieee.org/document/9716743">[Paper]</a>
 </li>
 
-<li align="justify">J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Decentralized charging coordination of electric vehicles under feeder capacity constraints," in IEEE Transactions on Control of Network Systems (Early Access), 2021, doi: 10.1109/TCNS.2021.3128498. <a href="https://ieeexplore.ieee.org/document/9616368">[Paper]</a>
+<li align="justify">J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Decentralized charging coordination of electric vehicles under feeder capacity constraints," in IEEE Transactions on Control of Network Systems, vol. 9, no. 4, pp. 1600-1610, Dec. 2022, doi: 10.1109/TCNS.2021.3128498. <a href="https://ieeexplore.ieee.org/document/9616368">[Paper]</a>
 </li>
 
 <li align="justify">J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "A payoff dynamics model for equality-constrained population games," in IEEE Control Systems Letters, vol. 6, pp. 530-535, 2022, doi: 10.1109/LCSYS.2021.3082865. <a href="https://ieeexplore.ieee.org/document/9438615">[Paper]</a>
@@ -71,6 +71,9 @@
 <p> <b>Conference papers</b> </p>
 </h3>
 <ul>
+
+<li align="justify"> J. Martinez-Piazuelo, G. Obando, N. Quijano and C. Ocampo-Martinez, "Distribución dinámica de recursos vía juegos poblacionales y modelos dinámicos de pago," en XLIII Jornadas de Automática: libro de actas, 2022, pp. 392-399. doi: 10.17979/spudc.9788497498418.0392 <a href="https://ruc.udc.es/dspace/handle/2183/31450">[Paper]</a>
+</li>
 
 <li align="justify"> J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Decentralized charging coordination of electric vehicles using multi-population games," in Proceedings of the 59th IEEE Conference on Decision and Control (CDC), 2020, pp. 506-511, doi: 10.1109/CDC42340.2020.9304437. <a href="https://ieeexplore.ieee.org/document/9304437">[Paper]</a>
 </li>
