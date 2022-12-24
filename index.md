@@ -72,7 +72,10 @@
 </h3>
 <ul>
 
-<li align="justify"> J. Martinez-Piazuelo, G. Obando, N. Quijano and C. Ocampo-Martinez, "Distribución dinámica de recursos vía juegos poblacionales y modelos dinámicos de pago," en XLIII Jornadas de Automática: libro de actas, 2022, pp. 392-399. doi: 10.17979/spudc.9788497498418.0392 <a href="https://ruc.udc.es/dspace/handle/2183/31450">[Paper]</a>
+<li align="justify"> J. Martinez-Piazuelo, G. Obando, N. Quijano and C. Ocampo-Martinez, "Distribución dinámica de recursos vía juegos poblacionales y modelos dinámicos de pago," en XLIII Jornadas de Automática: libro de actas, 2022, pp. 392-399. doi: 10.17979/spudc.9788497498418.0392. <a href="https://ruc.udc.es/dspace/handle/2183/31450">[Paper]</a>
+</li>
+
+<li align="justify"> J. Martinez-Piazuelo, C. Ocampo-Martinez and N. Quijano, "Generalized Nash equilibrium seeking in population games under the Brown-von Neumann-Nash dynamics," in Proceedings of the 20th IEEE European Control Conference (ECC), 2022, pp. 2161-2166, doi: 10.23919/ECC55457.2022.9838437. <a href="https://ieeexplore.ieee.org/abstract/document/9838437">[Paper]</a>
 </li>
 
 <li align="justify"> J. Martinez-Piazuelo, N. Quijano and C. Ocampo-Martinez, "Decentralized charging coordination of electric vehicles using multi-population games," in Proceedings of the 59th IEEE Conference on Decision and Control (CDC), 2020, pp. 506-511, doi: 10.1109/CDC42340.2020.9304437. <a href="https://ieeexplore.ieee.org/document/9304437">[Paper]</a>
