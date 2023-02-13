@@ -44,6 +44,9 @@
 </h3>
 <ul>
 
+<li align="justify">A. Sanchez-Amores, J. Martinez-Piazuelo, J. M. Maestre, C. Ocampo-Martinez, E. F. Camacho and N. Quijano, "Coalitional model predictive control of parabolic-trough solar collector fields with population-dynamics assistance," in Applied Energy, vol. 334, pp. 120740, 2023, doi: 10.1016/j.apenergy.2023.120740. <a href="https://doi.org/10.1016/j.apenergy.2023.120740">[Paper]</a>
+</li>
+
 <li align="justify">J. Martinez-Piazuelo, C. Ocampo-Martinez and N. Quijano, "On distributed Nash equilibrium seeking in a class of contractive population games," in IEEE Control Systems Letters, vol. 6, pp. 2972-2977, 2022, doi: 10.1109/LCSYS.2022.3182625. <a href="https://ieeexplore.ieee.org/document/9794678">[Paper]</a>
 </li>
 
