@@ -21,7 +21,7 @@
       </p>
       <p> </p>
       <p align="justify"><b>Education:</b> <br>
-         PhD. Automatic Control Engineering, <a href="https://www.upc.edu/en"> Universitat Politècnica de Catalunya </a>, 2024. <br>
+         PhD. Automatic Control Engineering, <a href="https://www.upc.edu/en"> UPC </a>, 2024. <br>
          M.S. Electronic Engineering, <a href="https://uniandes.edu.co"> Universidad de los Andes </a>, 2019. <br>
          B.S. Electronic Engineering, <a href="https://uniandes.edu.co"> Universidad de los Andes </a>, 2017.         
       </p>
