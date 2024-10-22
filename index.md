@@ -1,7 +1,4 @@
 <html>
-<h1>
-<p> <b>Juan Martinez-Piazuelo</b> </p>
-</h1>
 
 <table border="0" cellpadding="5" cellspacing="0" width="100%">
   <tbody>
@@ -16,7 +13,7 @@
       <p> <b>About me</b> <br> </p>
       </h2>
       <p align="justify">Postdoctoral Researcher, Automatic Control Department, <br>
-      Universitat Politècnica de Catalunya, Barcelona, Spain. <br>
+      Universitat Politècnica de Catalunya (UPC), Barcelona, Spain. <br>
       <b>Email:</b> <a href = "mailto: juan.pablo.martinez.piazuelo@upc.edu"> juan.pablo.martinez.piazuelo [<i>at</i>] upc.edu </a>
       </p>
       <p> </p>
@@ -112,11 +109,11 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
 </ul>
 
 <h3>
-<p> <b>Other publications</b> </p>
+<p> <b>Additional Projects</b> </p>
 </h3>
 <ul>
-
-<li align="justify"> <b>J. Martinez-Piazuelo</b>, N. Quijano and C. Ocampo-Martinez, "Primal-dual evolutionary dynamics for constrained population games," arXiv preprint, 2020. <a href="https://arxiv.org/abs/2008.09089">[Paper]</a>
+<li align="justify"> <b>Drowsy driver detection systems using convolutional neural networks</b>
+<iframe width="320" height="180" src="https://youtu.be/OaPsl84ecrg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </li>
 
 </ul>
