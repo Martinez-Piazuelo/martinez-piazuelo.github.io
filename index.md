@@ -5,8 +5,8 @@
     <tr>
       <td width="35%" style="display: flex; justify-content: center;">
       <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png"
-          alt="Photo"
-          width="225" />
+       alt="Photo"
+       style="max-width: 100%; height: auto;" />
       </td>
       <td valign="top" width="65%">
       <h2>
