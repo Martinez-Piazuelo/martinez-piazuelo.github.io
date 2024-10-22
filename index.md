@@ -12,7 +12,7 @@
       position: relative;
       width: 100%; /* Set the container to 100% of the parent width */
       /*max-width: 600px; /* Limit the maximum width to prevent overflow */
-      padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+      /*padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
       height: 0;
       overflow: hidden;
       margin: 0 auto; /* Center the video container */
