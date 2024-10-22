@@ -1,5 +1,7 @@
 <html>
-
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 <table border="0" cellpadding="5" cellspacing="0" width="100%">
   <tbody>
     <tr>
