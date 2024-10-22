@@ -12,7 +12,7 @@
       position: relative;
       width: 100%; /* Set the container to 100% of the parent width */
       max-width: 70%; /* Adjust this value to change the max size of the video */
-      padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+      padding-bottom: 39.38%; /* 16:9 Aspect Ratio */
       height: 0; /* Set height to 0 to enable padding-bottom for aspect ratio */
       overflow: hidden;
       margin: 0 auto; /* Center the video container */
