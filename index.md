@@ -1,31 +1,40 @@
 <html>
-
+<head>
+  <title>Juan Martinez-Piazuelo</title>
+  <style>
+    /* Ensure that images and videos are responsive */
+    img, iframe {
+      max-width: 100%;
+      height: auto;
+    }
+    /* Center-align text in sections */
+    .center {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
 <table border="0" cellpadding="5" cellspacing="0" width="100%">
   <tbody>
     <tr>
       <td width="35%" style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png"
-       alt="Photo"
-       width="225" />
+        <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png" alt="Photo" width="225" />
       </td>
       <td valign="top" width="65%">
-      <h2>
-      <p> <b>About me</b> <br> </p>
-      </h2>
-      <p align="justify">Postdoctoral Researcher, Automatic Control Department, <br>
-      Universitat Politècnica de Catalunya (UPC), Barcelona, Spain. <br>
-      <b>Email:</b> <a href = "mailto: juan.pablo.martinez.piazuelo@upc.edu"> juan.pablo.martinez.piazuelo [<i>at</i>] upc.edu </a>
-      </p>
-      <p> </p>
-      <p align="justify"><b>Education:</b> <br>
-         PhD. Automatic Control Engineering, <a href="https://www.upc.edu/en"> UPC </a>, 2024. <br>
-         M.S. Electronic Engineering, <a href="https://uniandes.edu.co"> Universidad de los Andes </a>, 2019. <br>
-         B.S. Electronic Engineering, <a href="https://uniandes.edu.co"> Universidad de los Andes </a>, 2017.         
-      </p>
-      <p> </p>
-      <p align="justify"><b>Research interests:</b> <br>
-         My current research interests include game theory, optimization, automatic control, and machine learning. 
-      </p>
+        <h2><b>About me</b></h2>
+        <p align="justify">
+          Postdoctoral Researcher, Automatic Control Department, <br>
+          Universitat Politècnica de Catalunya (UPC), Barcelona, Spain. <br>
+          <b>Email:</b> <a href="mailto:juan.pablo.martinez.piazuelo@upc.edu">juan.pablo.martinez.piazuelo [<i>at</i>] upc.edu</a>
+        </p>
+        <p align="justify"><b>Education:</b><br>
+          PhD. Automatic Control Engineering, <a href="https://www.upc.edu/en">UPC</a>, 2024. <br>
+          M.S. Electronic Engineering, <a href="https://uniandes.edu.co">Universidad de los Andes</a>, 2019. <br>
+          B.S. Electronic Engineering, <a href="https://uniandes.edu.co">Universidad de los Andes</a>, 2017.
+        </p>
+        <p align="justify"><b>Research interests:</b><br>
+          My current research interests include game theory, optimization, automatic control, and machine learning.
+        </p>
       </td>
     </tr>
   </tbody>
@@ -141,7 +150,7 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
 <br><br>
 </li>
 </ul>
-
+</body>
 </html>
 
 
