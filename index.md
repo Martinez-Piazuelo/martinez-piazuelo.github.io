@@ -13,7 +13,7 @@
       width: 100%; /* Set the container to 100% of the parent width */
       /*max-width: 600px; /* Limit the maximum width to prevent overflow */
       /*padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
-      height: 0;
+      height: auto;
       overflow: hidden;
       margin: 0 auto; /* Center the video container */
     }
@@ -42,7 +42,7 @@
         <p align="justify">
           Postdoctoral Researcher, Automatic Control Department, <br>
           Universitat Politècnica de Catalunya (UPC), Barcelona, Spain. <br>
-          <b>Email:</b> <a href="mailto:juan.pablo.martinez.piazuelo@upc.edu, juanmartinezpiazuelo@gmail.com">juan.pablo.martinez.piazuelo [<i>at</i>] upc.edu</a>
+          <b>Email:</b> <a href="mailto:juan.pablo.martinez.piazuelo@upc.edu">juan.pablo.martinez.piazuelo [<i>at</i>] upc.edu</a>
         </p>
         <p align="justify"><b>Education:</b><br>
           PhD. Automatic Control Engineering, <a href="https://www.upc.edu/en">UPC</a>, 2024. <br>
@@ -173,7 +173,7 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
 <p> <b>Contact me</b> </p>
 </h3>
 
-<p align="justify"> Feel free to reach out to me via <a href="mailto:juan.pablo.martinez.piazuelo@upc.edu, juanmartinezpiazuelo@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/juan-martinez-piazuelo-170836213/" target="_blank">LinkedIn</a>.</p>
+<p align="justify"> Feel free to reach out to me via <a href="mailto:juanmartinezpiazuelo@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/juan-martinez-piazuelo-170836213/" target="_blank">LinkedIn</a>.</p>
 
 </body>
 </html>
