@@ -24,6 +24,11 @@
       width: 100%;
       height: 100%;
     }
+    /* LinkedIn badge styling */
+    .linkedin-badge {
+      text-align: center;
+      margin: 20px 0;
+    }
     /* Center-align text in sections */
     .center {
       text-align: center;
@@ -167,6 +172,14 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
 <br><br>
 </li>
 </ul>
+
+<div class="linkedin-badge">
+    <a href="https://www.linkedin.com/in/juan-martinez-piazuelo-170836213/" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" style="width: 40px; height: 40px;" />
+    </a>
+    <p align="justify"> Feel free to reach out to me via email or connect with me on social media. <a href="https://www.linkedin.com/in/juan-martinez-piazuelo-170836213/" target="_blank">LinkedIn</a>.</p>
+  </div>
+
 </body>
 </html>
 
