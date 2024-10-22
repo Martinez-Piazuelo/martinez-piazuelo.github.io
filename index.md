@@ -1,6 +1,11 @@
 <html>
 <head>
   <title>Juan Martinez-Piazuelo</title>
+  <meta property="og:title" content="Juan Martinez-Piazuelo" />
+  <meta property="og:description" content="Postdoctoral Researcher at UPC, specializing in game theory, optimization, automatic control, and machine learning."/>
+  <meta property="og:image" content="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png" />
+  <meta property="og:url" content="https://martinez-piazuelo.github.io/" />
+  <meta property="og:type" content="website" />
   <style>
     /* Ensure that images are responsive */
     img {
