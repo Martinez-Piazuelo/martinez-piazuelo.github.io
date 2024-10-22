@@ -46,7 +46,7 @@
   <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png" alt="A portrait of Juan Martinez-Piazuelo" width="225" />
 </div>
 <div>
-  <h2><b>About me</b><a href="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/cv/Juan_Martinez-Piazuelo_CV.pdf" target="_blank" style="font-weight: normal; text-decoration: underline; margin-left: 10px;">(CV)</a></h2>
+  <h2><b>About me</b></h2>
   <p class="justify">
     Postdoctoral Researcher, Automatic Control Department, <br>
     Universitat Politècnica de Catalunya (UPC), Barcelona, Spain. <br>
