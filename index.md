@@ -113,8 +113,10 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
 </h3>
 <ul>
 <li align="justify"> <b>Drowsy driver detection system using convolutional neural networks: </b> In this project, I developed a drowsy driver detection system using a convolutional neural network (CNN) built with TensorFlow. The system is designed to detect the driver's face, accurately locate the eyes, and determine whether the eyes are open or closed. By continuously monitoring the driver’s eye state, the system can assess drowsiness in real-time, helping to prevent accidents caused by fatigue.
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OaPsl84ecrg?si=Lic-YHRACQqpEddd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+<div style="text-align: center;">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/OaPsl84ecrg?si=Lic-YHRACQqpEddd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 </li>
 
 </ul>
