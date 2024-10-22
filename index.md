@@ -42,33 +42,25 @@
 </head>
 <body>
 
-<table border="0" cellpadding="5" cellspacing="0" width="100%">
-  <tbody>
-    <tr>
-      <td style="text-align: center;">
-        <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png" alt="A portrait of Juan Martinez-Piazuelo" width="225" />
-      </td>
-    </tr>
-    <tr>
-      <td valign="top">
-        <h2><b>About me</b></h2>
-        <p class="justify">
-          Postdoctoral Researcher, Automatic Control Department, <br>
-          Universitat Politècnica de Catalunya (UPC), Barcelona, Spain. <br>
-          <b>Email:</b> <a href="mailto:juan.pablo.martinez.piazuelo@upc.edu">juan.pablo.martinez.piazuelo@upc.edu</a>
-        </p>
-        <p class="justify"><b>Education:</b><br>
-          PhD. Automatic Control Engineering, <a href="https://www.upc.edu/en">UPC</a>, 2024. <br>
-          M.S. Electronic Engineering, <a href="https://uniandes.edu.co">Universidad de los Andes</a>, 2019. <br>
-          B.S. Electronic Engineering, <a href="https://uniandes.edu.co">Universidad de los Andes</a>, 2017.
-        </p>
-        <p class="justify"><b>Research interests:</b><br>
-          My research interests include game theory, optimization, automatic control, and machine learning.
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png" alt="A portrait of Juan Martinez-Piazuelo" width="225" />
+</div>
+<div>
+  <h2><b>About me</b></h2>
+  <p class="justify">
+    Postdoctoral Researcher, Automatic Control Department, <br>
+    Universitat Politècnica de Catalunya (UPC), Barcelona, Spain. <br>
+    <b>Email:</b> <a href="mailto:juan.pablo.martinez.piazuelo@upc.edu">juan.pablo.martinez.piazuelo@upc.edu</a>
+  </p>
+  <p class="justify"><b>Education:</b><br>
+    PhD. Automatic Control Engineering, <a href="https://www.upc.edu/en">UPC</a>, 2024. <br>
+    M.S. Electronic Engineering, <a href="https://uniandes.edu.co">Universidad de los Andes</a>, 2019. <br>
+    B.S. Electronic Engineering, <a href="https://uniandes.edu.co">Universidad de los Andes</a>, 2017.
+  </p>
+  <p class="justify"><b>Research interests:</b><br>
+    My research interests include game theory, optimization, automatic control, and machine learning.
+  </p>
+</div>
 
 <h2>
 <p> <b>Publications</b> <a itemprop="sameAs" content="https://orcid.org/0000-0002-3032-0502" href="https://orcid.org/0000-0002-3032-0502" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a> </p>
