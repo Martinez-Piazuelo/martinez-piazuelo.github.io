@@ -1,7 +1,7 @@
 <html>
 <head>
   <title>Juan Martinez-Piazuelo</title>
-  <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/favicon.png" sizes="16x16"/>
+  <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/favicon.ico"/>
   <meta property="og:title" content="Juan Martinez-Piazuelo" />
   <meta property="og:description" content="Postdoctoral Researcher at UPC, specializing in game theory, optimization, automatic control, and machine learning."/>
   <meta property="og:image" content="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png" />
