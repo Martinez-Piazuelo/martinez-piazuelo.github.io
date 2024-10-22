@@ -2,10 +2,25 @@
 <head>
   <title>Juan Martinez-Piazuelo</title>
   <style>
-    /* Ensure that images and videos are responsive */
-    img, iframe {
+    /* Ensure that images are responsive */
+    img {
       max-width: 100%;
       height: auto;
+    }
+    /* Make video iframes responsive and maintain aspect ratio */
+    .video-container {
+      position: relative;
+      width: 100%;
+      padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+      height: 0;
+      overflow: hidden;
+    }
+    .video-container iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
     }
     /* Center-align text in sections */
     .center {
