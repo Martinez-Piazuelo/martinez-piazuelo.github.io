@@ -46,11 +46,11 @@
   <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png" alt="A portrait of Juan Martinez-Piazuelo" width="225" />
 </div>
 <div>
-  <h2><b>About me</b><a href="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/cv/Juan_Martinez-Piazuelo_CV.pdf" target="_blank" style="font-weight: normal; text-decoration: underline; margin-left: 10px;">(CV)</a></h2>
+  <h2><b>About me</b><a href="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/cv/Juan_Martinez-Piazuelo_CV.pdf" target="_blank" style="font-weight: normal; text-decoration: underline; margin-left: 10px;">(CV)</a></h2>
   <p class="justify">
     Postdoctoral Researcher, Automatic Control Department, <br>
     Universitat Politècnica de Catalunya (UPC), Barcelona, Spain. <br>
-    <b>Email:</b><b>Email:</b> <a href="mailto:juan.pablo.martinez.piazuelo@upc.edu">juan.pablo.martinez.piazuelo@upc.edu</a>
+    <b>Email:</b> <a href="mailto:juan.pablo.martinez.piazuelo@upc.edu">juan.pablo.martinez.piazuelo@upc.edu</a>
   </p>
   <p class="justify"><b>Education:</b><br>
     PhD. Automatic Control Engineering, <a href="https://www.upc.edu/en">UPC</a>, 2024. <br>
