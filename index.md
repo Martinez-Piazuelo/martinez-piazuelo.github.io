@@ -113,7 +113,7 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
 </h3>
 <ul>
 <li align="justify"> <b>Drowsy driver detection systems using convolutional neural networks</b>
-<iframe width="320" height="180" src="https://www.youtube.com/embed/OaPsl84ecrg&ab_channel=Piazuelo1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="320" height="180" src="https://www.youtube.com/embed/OaPsl84ecrg?si=Lic-YHRACQqpEddd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </li>
 
 </ul>
