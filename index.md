@@ -3,10 +3,10 @@
 <table border="0" cellpadding="5" cellspacing="0" width="100%">
   <tbody>
     <tr>
-      <td width="35%" style="display: flex; justify-content: center;">
+      <td width="35%" style="text-align: center;">
       <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png"
        alt="Photo"
-       style="max-width: 100%; height: auto;" />
+       width="225" />
       </td>
       <td valign="top" width="65%">
       <h2>
