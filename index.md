@@ -11,9 +11,9 @@
     .video-container {
       position: relative;
       width: 100%; /* Set the container to 100% of the parent width */
-      /*max-width: 600px; /* Limit the maximum width to prevent overflow */
-      /*padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
-      height: auto;
+      max-width: 70%; /* Adjust this value to change the max size of the video */
+      padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+      height: 0; /* Set height to 0 to enable padding-bottom for aspect ratio */
       overflow: hidden;
       margin: 0 auto; /* Center the video container */
     }
@@ -140,28 +140,28 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
 <ul>
 <li align="justify"> <b>Driver drowsiness detection system using convolutional neural networks: </b> In this project, I developed a drowsy driver detection system using a convolutional neural network (CNN) built with TensorFlow. The system is designed to detect the driver's face, accurately locate the eyes, and determine whether the eyes are open or closed. By continuously monitoring the driver’s eye state, the system can assess drowsiness in real-time, helping to prevent accidents caused by fatigue.
 <br><br>
-<div style="text-align: center;">
+<div class="video-container">
       <iframe src="https://www.youtube.com/embed/OaPsl84ecrg?si=Lic-YHRACQqpEddd" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br><br>
 </li>
 <li align="justify"> <b>Distributed formation control of mobile robots: </b> In this project, I developed a distributed control system for coordinating the positions of multiple mobile robots (e-puck v2). Each robot utilizes camera feedback to determine its own position and communicates with other robots in the group to collaboratively achieve the desired formation. This approach enhances flexibility and efficiency in multi-robot systems.
 <br><br>
-<div style="text-align: center;">
+<div class="video-container">
       <iframe src="https://www.youtube.com/embed/t-S0Gtblh_A?si=3WQ2CvyhLUxEAEZB" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br><br>
 </li>
 <li align="justify"> <b>Ball-on-beam automatic control system: </b> In this project, I designed and implemented a ball-on-beam control system, integrating an automatic controller to manage the position of the ball. The system utilizes camera video feedback to accurately track the ball's position, enabling precise control and stabilization on the beam.
 <br><br>
-<div style="text-align: center;">
+<div class="video-container">
       <iframe src="https://www.youtube.com/embed/6_o-Ue-Le-I?si=3l6kuDVqLqkAKq2b" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br><br>
 </li>
 <li align="justify"> <b>Multi-agent deep reinforcement learning: </b> In this project, I trained reinforcement learning agents for a multi-agent pursuit and evasion game set in a grid world. The agents utilize a Deep Q-Learning algorithm, enhanced by a sequential training strategy designed to promote cooperation among the agents. This approach effectively fosters collaborative behaviors, enabling improved performance in the pursuit and evasion scenarios.
 <br><br>
-<div style="text-align: center;">
+<div class="video-container">
       <iframe src="https://www.youtube.com/embed/75URG-OfMbA?si=HMD3hsRQPtVkOUpC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br><br>
