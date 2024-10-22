@@ -63,7 +63,7 @@
           B.S. Electronic Engineering, <a href="https://uniandes.edu.co">Universidad de los Andes</a>, 2017.
         </p>
         <p class="justify"><b>Research interests:</b><br>
-          My current research interests include game theory, optimization, automatic control, and machine learning.
+          My research interests include game theory, optimization, automatic control, and machine learning.
         </p>
       </td>
     </tr>
