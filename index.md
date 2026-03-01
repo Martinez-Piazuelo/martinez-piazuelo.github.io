@@ -1,10 +1,10 @@
 <html>
 <head>
   <title>Juan Martinez-Piazuelo</title>
-  <link rel="icon" href="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/favicon.ico?v=1.0"/>
+  <link rel="icon" href="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/main/images/favicon.ico?v=1.0"/>
   <meta property="og:title" content="Juan Martinez-Piazuelo" />
   <meta property="og:description" content="Postdoctoral Researcher at UPC, specializing in game theory, optimization, automatic control, and machine learning."/>
-  <meta property="og:image" content="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png" />
+  <meta property="og:image" content="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/main/images/photo.png" />
   <meta property="og:url" content="https://martinez-piazuelo.github.io/" />
   <meta property="og:type" content="website" />
   <style>
@@ -43,7 +43,7 @@
 <body>
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png" alt="A portrait of Juan Martinez-Piazuelo" width="225" />
+  <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/main/images/photo.png" alt="A portrait of Juan Martinez-Piazuelo" width="225" />
 </div>
 
 <div>
@@ -172,7 +172,6 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
   popgames is an open-source Python package for modeling and simulating generalized Nash equilibrium problems (GNEPs) in population games. 
   The package accompanies my book "Generalized Nash Equilibrium Seeking in Population Games" and serves as a computational framework 
   for experimentation and reproducible research in large-scale multi-agent systems.
-  <br><br>
   <b>Code:</b> <a href="https://github.com/Martinez-Piazuelo/popgames">GitHub Repository</a> |
   <b>Documentation:</b> <a href="https://martinez-piazuelo.github.io/popgames/">Project Website</a>
 </li>
