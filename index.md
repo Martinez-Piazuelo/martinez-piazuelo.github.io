@@ -45,20 +45,29 @@
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/master/images/photo.png" alt="A portrait of Juan Martinez-Piazuelo" width="225" />
 </div>
+
 <div>
   <h2><b>About me</b></h2>
   <p class="justify">
-    Postdoctoral Researcher, Automatic Control Department, <br>
-    Universitat Politècnica de Catalunya (UPC), Barcelona, Spain. <br>
-    <b>Email:</b> <a href="mailto:juan.pablo.martinez.piazuelo@upc.edu">juan.pablo.martinez.piazuelo@upc.edu</a>
+    Machine Learning Scientist, <br>
+    lastminute.com, Barcelona, Spain. <br>
+    <b>Email:</b> <a href="mailto:juan@martinezpiazuelo.com">juan@martinezpiazuelo.com</a>
   </p>
+
+  <p class="justify">
+    I am a Machine Learning Scientist with a background in Automatic Control and Optimization. 
+    My work focuses on designing and deploying machine learning models for real-world decision-making systems, 
+    combining data-driven methods with principled optimization techniques.
+  </p>
+
   <p class="justify"><b>Education:</b><br>
-    PhD. Automatic Control Engineering, <a href="https://www.upc.edu/en">UPC</a>, 2024. <br>
+    PhD. Automatic Control Engineering, <a href="https://www.upc.edu/en">Universitat Politècnica de Catalunya (UPC)</a>, 2024. <br>
     M.S. Electronic Engineering, <a href="https://uniandes.edu.co">Universidad de los Andes</a>, 2019. <br>
     B.S. Electronic Engineering, <a href="https://uniandes.edu.co">Universidad de los Andes</a>, 2017.
   </p>
+
   <p class="justify"><b>Research interests:</b><br>
-    My research interests include game theory, optimization, automatic control, and machine learning.
+    Machine learning, optimization, game theory, and automatic control.
   </p>
 </div>
 
@@ -67,6 +76,20 @@
 </h2>
 
 <p align="justify"> For a more up-to-date list of publications please visit my <a href="https://scholar.google.com/citations?user=lSaf1NgAAAAJ&hl=es">Google Scholar</a> profile.</p>
+
+<h3>
+<p> <b>Books</b> </p>
+</h3>
+<ul>
+
+<li align="justify">
+  <b>J. Martinez-Piazuelo</b>, C. Ocampo-Martinez and N. Quijano,
+  <i>Generalized Nash Equilibrium Seeking in Population Games: Applications in the Control of Large-Scale Multi-agent Systems</i>,
+  Springer Nature, 2026, doi: 10.1007/978-3-032-06081-5.
+  <a href="https://link.springer.com/book/10.1007/978-3-032-06081-5">[Publisher]</a>
+</li>
+
+</ul>
 
 <h3>
 <p> <b>Journal papers</b> </p>
@@ -143,6 +166,17 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
 <p> <b>Additional Projects</b> </p>
 </h3>
 <ul>
+
+<li align="justify">
+  <b>popgames:</b> 
+  popgames is an open-source Python package for modeling and simulating generalized Nash equilibrium problems (GNEPs) in population games. 
+  The package accompanies my book "Generalized Nash Equilibrium Seeking in Population Games" and serves as a computational framework 
+  for experimentation and reproducible research in large-scale multi-agent systems.
+  <br><br>
+  <b>Code:</b> <a href="https://github.com/Martinez-Piazuelo/popgames">GitHub Repository</a> |
+  <b>Documentation:</b> <a href="https://martinez-piazuelo.github.io/popgames/">Project Website</a>
+</li>
+
 <li align="justify"> <b>Driver drowsiness detection system using convolutional neural networks: </b> In this project, I developed a drowsy driver detection system using a convolutional neural network (CNN) built with TensorFlow. The system is designed to detect the driver's face, accurately locate the eyes, and determine whether the eyes are open or closed. By continuously monitoring the driver’s eye state, the system can assess drowsiness in real-time, helping to prevent accidents caused by fatigue.
 <br><br>
 <div class="video-container">
@@ -178,7 +212,7 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
 <p> <b>Contact me</b> </p>
 </h3>
 
-<p align="justify"> Feel free to reach out to me via <a href="mailto:juanmartinezpiazuelo@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/juan-martinez-piazuelo-170836213/" target="_blank">LinkedIn</a>.</p>
+<p align="justify"> Feel free to reach out to me via <a href="mailto:juan@martinezpiazuelo.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/juan-martinez-piazuelo-170836213/" target="_blank">LinkedIn</a>.</p>
 
 </body>
 </html>
