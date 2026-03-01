@@ -43,7 +43,7 @@
 <body>
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/main/images/photo.png" alt="A portrait of Juan Martinez-Piazuelo" width="225" />
+  <img src="https://raw.githubusercontent.com/Martinez-Piazuelo/martinez-piazuelo.github.io/main/images/photo.png" alt="A portrait of Juan Martinez-Piazuelo" width="450" />
 </div>
 
 <div>
