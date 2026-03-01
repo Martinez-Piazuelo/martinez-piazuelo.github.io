@@ -175,6 +175,7 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
   <b>Code:</b> <a href="https://github.com/Martinez-Piazuelo/popgames">GitHub Repository</a> |
   <b>Documentation:</b> <a href="https://martinez-piazuelo.github.io/popgames/">Project Website</a>
 </li>
+<br><br>
 
 <li align="justify"> <b>Driver drowsiness detection system using convolutional neural networks: </b> In this project, I developed a drowsy driver detection system using a convolutional neural network (CNN) built with TensorFlow. The system is designed to detect the driver's face, accurately locate the eyes, and determine whether the eyes are open or closed. By continuously monitoring the driver’s eye state, the system can assess drowsiness in real-time, helping to prevent accidents caused by fatigue.
 <br><br>
