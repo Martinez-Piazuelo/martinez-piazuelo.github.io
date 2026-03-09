@@ -82,6 +82,10 @@
 </h3>
 <ul>
 
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/Martinez-Piazuelo/popgames/main/docs/source/_static/book_cover.png" 
+       alt="Book cover of Generalized Nash Equilibrium Seeking in Population Games" width="200" />
+</div>
 <li align="justify">
   <b>J. Martinez-Piazuelo</b>, C. Ocampo-Martinez and N. Quijano,
   <i>Generalized Nash Equilibrium Seeking in Population Games: Applications in the Control of Large-Scale Multi-agent Systems</i>,
@@ -167,6 +171,10 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
 </h3>
 <ul>
 
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/Martinez-Piazuelo/popgames/main/assets/logo.png" 
+       alt="PopGames logo" width="200" />
+</div>
 <li align="justify">
   <b>popgames:</b> 
   popgames is an open-source Python package for modeling and simulating generalized Nash equilibrium problems (GNEPs) in population games. 
