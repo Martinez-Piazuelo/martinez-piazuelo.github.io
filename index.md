@@ -51,7 +51,8 @@
   <p class="justify">
     Machine Learning Scientist, <br>
     lastminute.com, Barcelona, Spain. <br>
-    <b>Email:</b> <a href="mailto:juan@martinezpiazuelo.com">juan@martinezpiazuelo.com</a>
+    <b>Email:</b> <a href="mailto:juan@martinezpiazuelo.com">juan@martinezpiazuelo.com</a> <br>
+    <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/juan-martinez-piazuelo-170836213/" target="_blank">Juan Martinez-Piazuelo</a>
   </p>
 
   <p class="justify">
@@ -82,16 +83,16 @@
 </h3>
 <ul>
 
-<div style="text-align: center;">
-<img src="https://raw.githubusercontent.com/Martinez-Piazuelo/popgames/main/docs/source/_static/book_cover.png" 
-       alt="Book cover of Generalized Nash Equilibrium Seeking in Population Games" width="200" />
-</div>
 <li align="justify">
   <b>J. Martinez-Piazuelo</b>, C. Ocampo-Martinez and N. Quijano,
   <i>Generalized Nash Equilibrium Seeking in Population Games: Applications in the Control of Large-Scale Multi-agent Systems</i>,
   Springer Nature, 2026, doi: 10.1007/978-3-032-06081-5.
   <a href="https://link.springer.com/book/10.1007/978-3-032-06081-5">[Publisher]</a>
 </li>
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/Martinez-Piazuelo/popgames/main/docs/source/_static/book_cover.png" 
+       alt="Book cover of Generalized Nash Equilibrium Seeking in Population Games" width="200" />
+</div>
 
 </ul>
 
@@ -171,10 +172,6 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
 </h3>
 <ul>
 
-<div style="text-align: center;">
-<img src="https://raw.githubusercontent.com/Martinez-Piazuelo/popgames/main/assets/logo.png" 
-       alt="PopGames logo" width="200" />
-</div>
 <li align="justify">
   <b>popgames:</b> 
   popgames is an open-source Python package for modeling and simulating generalized Nash equilibrium problems (GNEPs) in population games. 
@@ -183,6 +180,10 @@ vol. 53, no. 2, pp. 3131-3136, ISSN 2405-8963, doi: 10.1016/j.ifacol.2020.12.104
   <b>Code:</b> <a href="https://github.com/Martinez-Piazuelo/popgames">GitHub Repository</a> |
   <b>Documentation:</b> <a href="https://martinez-piazuelo.github.io/popgames/">Project Website</a>
 </li>
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/Martinez-Piazuelo/popgames/main/assets/logo.png" 
+       alt="PopGames logo" width="200" />
+</div>
 <br><br>
 
 <li align="justify"> <b>Driver drowsiness detection system using convolutional neural networks: </b> In this project, I developed a drowsy driver detection system using a convolutional neural network (CNN) built with TensorFlow. The system is designed to detect the driver's face, accurately locate the eyes, and determine whether the eyes are open or closed. By continuously monitoring the driver’s eye state, the system can assess drowsiness in real-time, helping to prevent accidents caused by fatigue.
